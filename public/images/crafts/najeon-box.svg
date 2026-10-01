@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img"><title>옻칠 검정 바탕에 자개빛이 은은한 함</title><rect width="640" height="480" fill="#efe7d6"/><rect y="372" width="640" height="108" fill="#e1d6bf"/>
+<ellipse cx="320" cy="404" rx="180" ry="12" fill="#2b2723" opacity=".18"/>
+<defs><linearGradient id="n" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#cfe3df"/><stop offset=".5" stop-color="#d8c8e0"/><stop offset="1" stop-color="#e8dcc0"/></linearGradient></defs>
+<rect x="140" y="180" width="360" height="212" rx="6" fill="#1f1c1a"/>
+<rect x="140" y="150" width="360" height="52" rx="6" fill="#2b2723"/>
+<rect x="160" y="212" width="320" height="160" rx="3" fill="none" stroke="url(#n)" stroke-width="3" opacity=".8"/>
+<circle cx="320" cy="292" r="38" fill="url(#n)" opacity=".75"/>
+<circle cx="320" cy="292" r="18" fill="#1f1c1a"/>
+<rect x="300" y="196" width="40" height="12" rx="3" fill="url(#n)" opacity=".8"/>
+</svg>

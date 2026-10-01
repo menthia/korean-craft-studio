@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img"><title>받침 위에 놓인 두 개의 담백한 찻잔</title><rect width="640" height="480" fill="#efe7d6"/><rect y="372" width="640" height="108" fill="#e1d6bf"/>
+<ellipse cx="320" cy="396" rx="230" ry="16" fill="#2b2723" opacity=".12"/>
+<ellipse cx="210" cy="372" rx="100" ry="14" fill="#d9ccb3"/>
+<path d="M130 250h160c0 70-34 118-80 118s-80-48-80-118z" fill="#f7f3ea" stroke="#d6c9b1" stroke-width="3"/>
+<ellipse cx="210" cy="250" rx="80" ry="14" fill="#e9dfcc" stroke="#d6c9b1" stroke-width="3"/>
+<ellipse cx="450" cy="372" rx="100" ry="14" fill="#d9ccb3"/>
+<path d="M370 270h160c0 62-34 98-80 98s-80-36-80-98z" fill="#cfd8dc" stroke="#9fb0b8" stroke-width="3"/>
+<ellipse cx="450" cy="270" rx="80" ry="13" fill="#b9c6cc" stroke="#9fb0b8" stroke-width="3"/>
+</svg>

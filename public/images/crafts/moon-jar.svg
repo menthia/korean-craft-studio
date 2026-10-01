@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img"><title>연한 백색 유약의 둥근 달항아리</title><rect width="640" height="480" fill="#efe7d6"/><rect y="372" width="640" height="108" fill="#e1d6bf"/>
+<ellipse cx="320" cy="400" rx="130" ry="14" fill="#2b2723" opacity=".12"/>
+<path d="M255 120h130v34c70 40 92 110 62 176-18 40-60 62-127 62s-109-22-127-62c-30-66-8-136 62-176z" fill="#f7f3ea" stroke="#d6c9b1" stroke-width="3"/>
+<ellipse cx="320" cy="120" rx="65" ry="12" fill="#fffdf8" stroke="#d6c9b1" stroke-width="3"/>
+<path d="M240 250c10 60 50 100 110 108" fill="none" stroke="#e9dfcc" stroke-width="14" opacity=".7" stroke-linecap="round"/>
+</svg>

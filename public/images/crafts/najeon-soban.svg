@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img"><title>옻칠 윤기가 도는 둥근 나전 소반</title><rect width="640" height="480" fill="#efe7d6"/><rect y="372" width="640" height="108" fill="#e1d6bf"/>
+<defs><linearGradient id="n" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#cfe3df"/><stop offset=".5" stop-color="#d8c8e0"/><stop offset="1" stop-color="#e8dcc0"/></linearGradient></defs>
+<ellipse cx="320" cy="408" rx="170" ry="12" fill="#2b2723" opacity=".18"/>
+<path d="M270 330h20l-8 76h-22zM350 330h20l8 76h-22z" fill="#1f1c1a"/>
+<path d="M270 330h100v30h-100z" fill="#2b2723" opacity="0"/>
+<ellipse cx="320" cy="300" rx="190" ry="54" fill="#1f1c1a"/>
+<ellipse cx="320" cy="282" rx="190" ry="54" fill="#2b2723"/>
+<ellipse cx="320" cy="282" rx="150" ry="38" fill="none" stroke="url(#n)" stroke-width="3" opacity=".8"/>
+<ellipse cx="320" cy="282" rx="52" ry="14" fill="url(#n)" opacity=".7"/>
+</svg>

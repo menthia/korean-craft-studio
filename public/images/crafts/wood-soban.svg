@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img"><title>나뭇결이 보이는 네모난 원목 소반</title><rect width="640" height="480" fill="#efe7d6"/><rect y="372" width="640" height="108" fill="#e1d6bf"/>
+<ellipse cx="320" cy="410" rx="190" ry="12" fill="#2b2723" opacity=".15"/>
+<rect x="200" y="320" width="22" height="88" fill="#8b6a47"/><rect x="418" y="320" width="22" height="88" fill="#8b6a47"/>
+<path d="M120 250h400l-34 78H154z" fill="#a8825a"/>
+<path d="M120 250l50-60h300l50 60z" fill="#c29f72"/>
+<path d="M190 215c50-6 90 4 140-2s90 4 120 0M175 232c60-4 100 4 150-2s100 4 145 0" fill="none" stroke="#a8825a" stroke-width="3" opacity=".7"/>
+<path d="M160 290c80-5 140 4 220-2s70 2 100-1" fill="none" stroke="#8b6a47" stroke-width="3" opacity=".6"/>
+</svg>

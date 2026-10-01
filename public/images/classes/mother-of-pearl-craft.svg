@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img"><title>작업대 위에서 나전 소품을 만드는 도구와 상자 일러스트</title>
+<rect width="640" height="480" fill="#ece4d2"/><rect y="340" width="640" height="140" fill="#cdbf9f"/>
+<rect x="150" y="200" width="340" height="150" rx="8" fill="#2b2723"/><rect x="150" y="200" width="340" height="50" rx="8" fill="#3a342e"/>
+<rect x="175" y="268" width="290" height="62" rx="4" fill="none" stroke="#e9dfcc" stroke-width="2" opacity=".7"/>
+<g fill="#cfe0e6"><path d="M250 300 q18 -30 36 0 q-18 12 -36 0Z"/><path d="M300 296 q18 -26 36 0 q-18 10 -36 0Z" fill="#e9dfcc"/><path d="M350 300 q18 -30 36 0 q-18 12 -36 0Z" fill="#b8cfd8"/></g>
+<path d="M286 300 C300 280 300 280 300 296 M386 300 C400 285 410 285 420 296" stroke="#e9dfcc" stroke-width="3" fill="none"/>
+<rect x="70" y="290" width="14" height="80" rx="3" fill="#8a7a5e" transform="rotate(25 77 330)"/><rect x="540" y="280" width="10" height="90" rx="3" fill="#2f4858" transform="rotate(-20 545 325)"/>
+<ellipse cx="540" cy="372" rx="40" ry="10" fill="#5a524a" opacity=".25"/>
+</svg>

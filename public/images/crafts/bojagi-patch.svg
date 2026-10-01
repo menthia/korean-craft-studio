@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img"><title>여러 색 천 조각을 이어 붙인 조각보</title><rect width="640" height="480" fill="#efe7d6"/><rect y="372" width="640" height="108" fill="#e1d6bf"/>
+<rect x="150" y="70" width="340" height="340" fill="#fffdf8" stroke="#d6c9b1" stroke-width="3"/>
+<rect x="165" y="85" width="140" height="110" fill="#2f4858" opacity=".85"/>
+<rect x="305" y="85" width="170" height="70" fill="#e9dfcc"/>
+<rect x="305" y="155" width="90" height="140" fill="#b9a98a"/>
+<rect x="395" y="155" width="80" height="140" fill="#7d9aa6"/>
+<rect x="165" y="195" width="140" height="100" fill="#f1e7cf"/>
+<rect x="165" y="295" width="110" height="100" fill="#8b7355" opacity=".8"/>
+<rect x="275" y="295" width="200" height="100" fill="#cfd8dc"/>
+<path d="M165 195h140M305 85v210M395 155v140M165 295h310M275 295v100" stroke="#fffdf8" stroke-width="3" stroke-dasharray="8 6"/>
+</svg>
